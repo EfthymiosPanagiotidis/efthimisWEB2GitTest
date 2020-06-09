@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: #6e3f19;
+  width: 100%;
+  height: 160px;
+}
+.jumbotron h1,
+h3 {
+  color: #f5f5dc;
+  text-align: center;
+  padding-top: 30px;
+}
